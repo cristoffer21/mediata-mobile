@@ -276,9 +276,9 @@ Este projeto é privado e de uso acadêmico.
 
 ## 👨‍💻 Autor
 
-Eunice Correia
-Vitória Viana
-Cristoffer
+* Eunice Correia
+* Vitória Viana
+* Cristoffer
 
 Repositório React Native [@cristoffer21](https://github.com/cristoffer21)
 Repositório Backend [@EuniceCorreia](https://github.com/EuniceCorreia/mediAta-Backend.git)
